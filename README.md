@@ -20,7 +20,7 @@
 
 <br/>  
 
-## My Skill Set  
+## My Skills 
 <table><tr><td valign="top" width="33%">
 
 
@@ -52,7 +52,7 @@
 
 <br/> 
 
-## Connect with me  
+## Contacts
 <div align="center">
 <a href="https://www.kaggle.com/xxxx2002" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
