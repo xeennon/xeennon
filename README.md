@@ -62,6 +62,10 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=xeennon&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 <br/>  
+ 
+ ## CodeWars
+ <a href= "https://www.codewars.com/users/ksyu.gomenko/badges/micro?theme=light"/>
+ 
 
   
 
