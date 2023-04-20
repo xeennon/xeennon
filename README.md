@@ -52,7 +52,7 @@
 </td></tr></table>  
 
 <br/>  
- ## Connect with me  
+## Connect with me  
 <div align="center">
 <a href="https://www.kaggle.com/xxxx2002" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
