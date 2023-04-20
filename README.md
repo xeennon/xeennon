@@ -15,7 +15,7 @@
 🔬 familiar with ChatGPT  
   
 
-🖼️ learning artificial intelligence and machine learning  
+🖼️ studying artificial intelligence and machine learning  
   
 
 <br/>  
